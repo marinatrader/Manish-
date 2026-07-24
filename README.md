@@ -145,7 +145,7 @@ color:#777;
 
 <div class="card">
 
-<img src="100.jpg" class="logo">
+<img src="forex-trade-logo-design-template-x-letter-logo_463091-165.jpg" class="logo">
 
 <h1>FOREX TRADE</h1>
 
